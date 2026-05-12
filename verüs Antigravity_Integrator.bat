@@ -69,6 +69,10 @@ start /min "AG-BackupMgr" python backup_manager.py
 echo  [5] Dashboard baslatiliyor...
 start "AG-Dashboard" cmd /k "python main.py"
 
+:: 6. CLOUD SYNC (Render Dashboard Güncelleyici)
+echo  [6] Bulut Senkronizasyonu (Render) baslatiliyor...
+start /min "AG-CloudSync" python cloud_sync.py
+
 echo.
 echo  ============================================================
 echo   [AKTIF] TUM MODULLER CALISIYOR
