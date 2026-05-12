@@ -17,7 +17,11 @@ if not os.path.exists(templates_path):
 
 templates = Jinja2Templates(directory=templates_path)
 
-@app.get("/", response_class=HTMLResponse)
+@app.get("/health")
+async def health_check():
+    return {"status": "healthy"}
+
+@app.api_route("/", methods=["GET", "HEAD"], response_class=HTMLResponse)
 async def read_root(request: Request):
     # Varsayılan Değerler
     guardian = {"temp": 0, "status": "Offline / Bekleniyor", "threads": "?"}
