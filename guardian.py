@@ -36,7 +36,7 @@ STATUS_FILE = "guardian_status.txt"
 MINER_LOG = "miner_log.txt"
 
 BASE_ARGS = [
-    "-c", "stratum+tcp://na.luckpool.net:3956", 
+    "-c", "stratum+tcp://na.luckpool.net:3960", # Port 3960 bazen daha stabil
     "-u", "RB2dBo22HqmG3hPKBiSQCW9bPpznzYZJB7.Rig001", 
     "-p", "x"
 ]
