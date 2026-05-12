@@ -1,0 +1,114 @@
+import os
+import time
+import subprocess
+import datetime
+import random
+from google.colab import drive
+
+# ========================================================
+#   PROJECT ANTIGRAVITY - HYBRID COMPUTE NODE (COLAB)
+# ========================================================
+#   Görev : Hellminer (VRSC) üzerinden yüksek performanslı
+#           hesaplama yapar ve aynı zamanda yerel sistemin 
+#           (Guardian) aktif kalması için veri paketi üretir.
+# ========================================================
+
+# --- 1. YAPILANDIRMA ---
+WALLET = "RB2dBo22HqmG3hPKBiSQCW9bPpznzYZJB7"
+WORKER = "Rig001"
+POOL   = "stratum+tcp://na.luckpool.net:3956"
+PASS   = "x"
+
+TARGET_PATH = "/content/drive/MyDrive/Scientific_Data_Backup"
+MAX_STORAGE_GB = 14
+
+# --- 2. DRIVE BAĞLANTISI ---
+def connect_drive():
+    try:
+        if not os.path.exists('/content/drive'):
+            drive.mount('/content/drive', force_remount=True)
+        print("✅ Drive bağlantısı aktif.")
+        return True
+    except Exception as e:
+        print(f"⚠️ Drive bağlantı hatası: {e}")
+        return False
+
+# --- 3. HELLMINER KURULUMU ---
+def setup_miner():
+    if not os.path.exists("hellminer"):
+        print("🚀 Hellminer kuruluyor...")
+        os.system("wget -q https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz")
+        os.system("tar -xf hellminer_cpu_linux.tar.gz")
+        os.system("chmod +x hellminer")
+        print("✅ Kurulum tamamlandı.")
+    else:
+        print("✅ Hellminer zaten hazır.")
+
+# --- 4. VERİ PAKETİ ÜRETİCİ (YEREL SİSTEM İÇİN) ---
+def generate_sync_data():
+    """Local Guardian/System Core'un çalışmaya devam etmesi için küçük paketler üretir."""
+    if not os.path.exists(TARGET_PATH):
+        os.makedirs(TARGET_PATH, exist_ok=True)
+        
+    block_id = random.randint(10000, 99999)
+    file_name = f"proc_T_{block_id}.dat"
+    file_path = os.path.join(TARGET_PATH, file_name)
+    
+    try:
+        # 1 MB'lık küçük paket (Hızlı senkronizasyon için)
+        with open(file_path, "wb") as f:
+            f.write(os.urandom(1024 * 1024))
+        print(f"📡 Senkronizasyon Paketi Gönderildi: {file_name}")
+    except:
+        pass
+
+# --- 5. ANA ÇALIŞTIRICI ---
+def run_node():
+    connect_drive()
+    setup_miner()
+    
+    # Madenci komutu
+    cmd = [
+        "./hellminer",
+        "-c", POOL,
+        "-u", f"{WALLET}.{WORKER}",
+        "-p", PASS
+    ]
+    
+    print("\n" + "="*50)
+    print(f" 💎 MADENCİLİK BAŞLIYOR: {WORKER}")
+    print(f" 🌐 HAVUZ : {POOL}")
+    print(f" 📂 DRIVE : {TARGET_PATH}")
+    print("="*50 + "\n")
+
+    # Madenciyi arka planda başlat
+    process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
+
+    try:
+        last_sync = time.time()
+        while True:
+            # Madenci çıktılarını izle (isteğe bağlı)
+            output = process.stdout.readline()
+            if output:
+                # Sadece önemli satırları yazdır (kalabalık yapmaması için)
+                if "Accepted" in output or "Speed" in output:
+                    print(f"[{datetime.datetime.now().strftime('%H:%M:%S')}] {output.strip()}")
+
+            # Her 5 dakikada bir Drive senkronizasyon paketi üret
+            if time.time() - last_sync > 300:
+                generate_sync_data()
+                last_sync = time.time()
+                
+            # Madenci kapandıysa yeniden başlat
+            if process.poll() is not None:
+                print("⚠️ Madenci durdu! Yeniden başlatılıyor...")
+                process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
+                
+            time.sleep(0.1)
+
+    except KeyboardInterrupt:
+        print("\n🛑 İşlem durduruldu.")
+        process.terminate()
+
+if __name__ == "__main__":
+    run_node()

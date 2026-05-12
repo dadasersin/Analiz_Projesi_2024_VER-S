@@ -1,0 +1,14 @@
+Arsiv_Deposu/
+Cop_Kutusu/
+__pycache__/
+*.log
+*.txt
+!requirements.txt
+!runtime.txt
+guardian_status.txt
+verus_stats_cache.json
+WinRing0x64.sys
+system_core.exe
+*.gscript
+*.dat
+*.bin

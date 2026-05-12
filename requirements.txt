@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+jinja2
+psutil
+wmi; sys_platform == 'win32'
+python-multipart
