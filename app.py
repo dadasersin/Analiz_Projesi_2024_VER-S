@@ -31,8 +31,13 @@ async def read_root(request: Request):
                 if "|" in content:
                     parts = content.split("|")
                     if len(parts) >= 3:
-                        guardian = {"temp": parts[0], "status": parts[1], "threads": parts[2]}
-        except: pass
+                        try:
+                            temp_val = float(parts[0])
+                        except (ValueError, TypeError):
+                            temp_val = 0
+                        guardian = {"temp": temp_val, "status": parts[1], "threads": parts[2]}
+        except Exception:
+            pass
 
     # Stats verisi oku
     if os.path.exists(STATS_CACHE):
@@ -45,11 +50,15 @@ async def read_root(request: Request):
                     stats["paid"] = data.get("paid", data.get("paid_vrsc", 0))
                     stats["pending"] = data.get("pending", data.get("pending_vrsc", 0))
                     stats["last_share"] = data.get("last_share", "Yok")
-        except: pass
+        except (json.JSONDecodeError, FileNotFoundError, Exception):
+            pass
 
-    return templates.TemplateResponse("index.html", {
-        "request": request,
-        "guardian": guardian,
-        "stats": stats,
-        "wallet": "RB2dBo22HqmG3hPKBiSQCW9bPpznzYZJB7"
-    })
+    return templates.TemplateResponse(
+        request=request,
+        name="index.html",
+        context={
+            "guardian": guardian,
+            "stats": stats,
+            "wallet": "RB2dBo22HqmG3hPKBiSQCW9bPpznzYZJB7"
+        }
+    )
