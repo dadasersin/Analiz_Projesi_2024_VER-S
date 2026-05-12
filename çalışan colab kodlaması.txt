@@ -1,0 +1,82 @@
+import os
+import time
+import subprocess
+import datetime
+import random
+from google.colab import drive
+
+# ========================================================
+#   PROJECT ANTIGRAVITY - COLAB MINING ENGINE (REVISED)
+# ========================================================
+#   Target  : Hellminer / Luckpool / VRSC
+#   Havuz   : stratum+tcp://na.luckpool.net:3956
+#   Cüzdan  : RB2dBo22HqmG3hPKBiSQCW9bPpznzYZJB7
+#   Worker  : Rig001
+#   Şifre   : x
+#   Komut   : ./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RB2dBo22HqmG3hPKBiSQCW9bPpznzYZJB7.Rig001 -p x
+# ========================================================
+
+# --- KONFİGÜRASYON ---
+POOL = "stratum+tcp://na.luckpool.net:3956"
+WALLET = "RB2dBo22HqmG3hPKBiSQCW9bPpznzYZJB7"
+WORKER = "Rig001"
+PASS = "x"
+
+TARGET_PATH = "/content/drive/MyDrive/Scientific_Data_Backup"
+MAX_STORAGE_GB = 14
+
+def connect_drive():
+    try:
+        drive.mount('/content/drive', force_remount=True)
+        print("✅ Drive bağlantısı kuruldu.")
+        return True
+    except:
+        print("⚠️ Drive bağlantısı bekleniyor...")
+        return False
+
+def setup_miner():
+    if not os.path.exists("hellminer"):
+        print("📥 Hellminer indiriliyor...")
+        os.system("wget -q https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz")
+        os.system("tar -xf hellminer_cpu_linux.tar.gz")
+        os.system("chmod +x hellminer")
+    print("✅ Madenci hazır.")
+
+def run_mining_session():
+    # Komut: ./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RB2dBo22HqmG3hPKBiSQCW9bPpznzYZJB7.Rig001 -p x
+    cmd = [
+        "./hellminer",
+        "-c", POOL,
+        "-u", f"{WALLET}.{WORKER}",
+        "-p", PASS
+    ]
+    
+    print(f"🚀 Madencilik Başlatılıyor: {WORKER}")
+    
+    # Madenciyi çalıştır
+    process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
+    
+    try:
+        while True:
+            line = process.stdout.readline()
+            if not line and process.poll() is not None:
+                break
+            
+            if line:
+                line = line.strip()
+                if "Accepted" in line or "Speed" in line:
+                    print(f"[{datetime.datetime.now().strftime('%H:%M:%S')}] {line}")
+            
+            # Periyodik Drive temizliği ve sinyal dosyası üretimi (Opsiyonel)
+            # Burada orijinal kodundaki kota kontrolünü entegre edebiliriz
+            
+    except KeyboardInterrupt:
+        process.terminate()
+        print("🛑 Durduruldu.")
+
+if __name__ == "__main__":
+    if connect_drive():
+        if not os.path.exists(TARGET_PATH):
+            os.makedirs(TARGET_PATH, exist_ok=True)
+        setup_miner()
+        run_mining_session()

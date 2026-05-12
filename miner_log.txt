@@ -1,0 +1,574 @@
+
+--- BASLATILDI: 14:54:12 ---
+[2026-05-12 14:54:12.839] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:54:12.840] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:54:12.840] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:54:12.840] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:54:12.840] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:54:17 ---
+[2026-05-12 14:54:17.920] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:54:17.921] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:54:17.922] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:54:17.922] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:54:17.923] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:54:28 ---
+[2026-05-12 14:54:28.036] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:54:28.038] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:54:28.038] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:54:28.038] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:54:28.038] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:54:38 ---
+[2026-05-12 14:54:38.168] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:54:38.170] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:54:38.170] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:54:38.170] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:54:38.170] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:54:48 ---
+[2026-05-12 14:54:48.285] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:54:48.286] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:54:48.286] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:54:48.286] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:54:48.286] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:54:58 ---
+[2026-05-12 14:54:58.447] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:54:58.448] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:54:58.448] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:54:58.448] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:54:58.448] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:55:08 ---
+[2026-05-12 14:55:08.574] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:55:08.576] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:55:08.576] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:55:08.576] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:55:08.576] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:55:18 ---
+[2026-05-12 14:55:18.731] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:55:18.734] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:55:18.734] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:55:18.735] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:55:18.735] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:55:28 ---
+[2026-05-12 14:55:28.869] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:55:28.871] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:55:28.871] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:55:28.871] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:55:28.871] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:55:39 ---
+[2026-05-12 14:55:39.043] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:55:39.044] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:55:39.045] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:55:39.045] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:55:39.045] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:55:49 ---
+[2026-05-12 14:55:49.183] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:55:49.184] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:55:49.184] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:55:49.185] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:55:49.185] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:55:59 ---
+[2026-05-12 14:55:59.327] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:55:59.330] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:55:59.330] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:55:59.330] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:55:59.330] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:56:09 ---
+[2026-05-12 14:56:09.460] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:56:09.462] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:56:09.462] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:56:09.462] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:56:09.462] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:56:19 ---
+[2026-05-12 14:56:19.608] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:56:19.610] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:56:19.610] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:56:19.610] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:56:19.610] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:56:29 ---
+[2026-05-12 14:56:29.896] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:56:29.899] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:56:29.899] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:56:29.899] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:56:29.899] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:56:39 ---
+[2026-05-12 14:56:40.017] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:56:40.018] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:56:40.019] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:56:40.019] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:56:40.019] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:56:50 ---
+[2026-05-12 14:56:50.183] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:56:50.185] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:56:50.185] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:56:50.185] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:56:50.186] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:57:00 ---
+[2026-05-12 14:57:00.316] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:57:00.318] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:57:00.318] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:57:00.318] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:57:00.318] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:57:10 ---
+[2026-05-12 14:57:10.486] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:57:10.538] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:57:10.538] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:57:10.538] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:57:10.539] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:57:20 ---
+[2026-05-12 14:57:20.600] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:57:20.602] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:57:20.602] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:57:20.602] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:57:20.602] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:57:30 ---
+[2026-05-12 14:57:30.728] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:57:30.730] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:57:30.730] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:57:30.730] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:57:30.730] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:57:40 ---
+[2026-05-12 14:57:42.444] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:57:42.446] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:57:42.446] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:57:42.447] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:57:42.447] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:57:51 ---
+[2026-05-12 14:57:51.964] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:57:51.965] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:57:51.966] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:57:51.966] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:57:51.966] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:58:01 ---
+[2026-05-12 14:58:01.877] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:58:01.878] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:58:01.879] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:58:01.879] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:58:01.879] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:58:12 ---
+[2026-05-12 14:58:12.229] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:58:12.230] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:58:12.230] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:58:12.230] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:58:12.230] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:58:22 ---
+[2026-05-12 14:58:22.414] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:58:22.415] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:58:22.415] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:58:22.415] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:58:22.415] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:58:32 ---
+[2026-05-12 14:58:32.520] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:58:32.522] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:58:32.522] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:58:32.522] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:58:32.523] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:58:42 ---
+[2026-05-12 14:58:42.643] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:58:42.645] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:58:42.645] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:58:42.645] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:58:42.645] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:58:52 ---
+[2026-05-12 14:58:52.795] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:58:52.797] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:58:52.797] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:58:52.797] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:58:52.797] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:59:02 ---
+[2026-05-12 14:59:02.929] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:59:02.930] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:59:02.931] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:59:02.931] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:59:02.931] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:59:13 ---
+[2026-05-12 14:59:13.065] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:59:13.067] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:59:13.067] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:59:13.067] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:59:13.067] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:59:23 ---
+[2026-05-12 14:59:23.206] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:59:23.207] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:59:23.207] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:59:23.208] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:59:23.208] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:59:33 ---
+[2026-05-12 14:59:33.690] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:59:33.691] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:59:33.691] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:59:33.691] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:59:33.691] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 14:59:54 ---
+[2026-05-12 14:59:54.387] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 14:59:54.388] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 14:59:54.388] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 14:59:54.389] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 14:59:54.389] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:00:04 ---
+[2026-05-12 15:00:04.523] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:00:04.524] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:00:04.524] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:00:04.524] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:00:04.524] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:00:14 ---
+[2026-05-12 15:00:14.767] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:00:14.768] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:00:14.769] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:00:14.769] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:00:14.769] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:00:24 ---
+[2026-05-12 15:00:25.011] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:00:25.013] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:00:25.013] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:00:25.013] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:00:25.014] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:00:35 ---
+[2026-05-12 15:00:35.279] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:00:35.286] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:00:35.286] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:00:35.287] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:00:35.287] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:00:45 ---
+[2026-05-12 15:00:45.383] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:00:45.385] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:00:45.385] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:00:45.386] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:00:45.386] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:01:11 ---
+[2026-05-12 15:01:11.858] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:01:11.860] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:01:11.860] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:01:11.860] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:01:11.860] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:01:21 ---
+[2026-05-12 15:01:21.525] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:01:21.527] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:01:21.527] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:01:21.527] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:01:21.527] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:01:31 ---
+[2026-05-12 15:01:32.050] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:01:32.052] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:01:32.052] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:01:32.053] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:01:32.053] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:01:42 ---
+[2026-05-12 15:01:42.050] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:01:42.052] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:01:42.052] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:01:42.052] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:01:42.052] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:01:52 ---
+[2026-05-12 15:01:52.527] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:01:52.530] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:01:52.530] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:01:52.530] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:01:52.530] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:02:02 ---
+[2026-05-12 15:02:02.388] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:02:02.392] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:02:02.392] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:02:02.392] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:02:02.392] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:02:17 ---
+[2026-05-12 15:02:17.723] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:02:17.724] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:02:17.724] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:02:17.724] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:02:17.724] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:02:27 ---
+[2026-05-12 15:02:27.843] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:02:27.845] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:02:27.845] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:02:27.845] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:02:27.845] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:02:37 ---
+[2026-05-12 15:02:38.028] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:02:38.029] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:02:38.029] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:02:38.029] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:02:38.029] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:02:48 ---
+[2026-05-12 15:02:48.093] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:02:48.094] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:02:48.094] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:02:48.094] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:02:48.094] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:02:58 ---
+[2026-05-12 15:02:58.226] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:02:58.228] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:02:58.228] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:02:58.228] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:02:58.229] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:03:08 ---
+[2026-05-12 15:03:08.402] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:03:08.404] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:03:08.404] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:03:08.404] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:03:08.404] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:03:18 ---
+[2026-05-12 15:03:18.515] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:03:18.516] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:03:18.516] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:03:18.516] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:03:18.516] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:03:28 ---
+[2026-05-12 15:03:28.644] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:03:28.646] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:03:28.646] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:03:28.646] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:03:28.646] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:03:38 ---
+[2026-05-12 15:03:38.786] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:03:38.787] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:03:38.787] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:03:38.788] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:03:38.788] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:03:48 ---
+[2026-05-12 15:03:48.908] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:03:48.909] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:03:48.909] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:03:48.910] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:03:48.910] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:03:59 ---
+[2026-05-12 15:03:59.254] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:03:59.255] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:03:59.255] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:03:59.255] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:03:59.255] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:04:09 ---
+[2026-05-12 15:04:09.465] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:04:09.466] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:04:09.466] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:04:09.467] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:04:09.467] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:04:29 ---
+[2026-05-12 15:04:29.927] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:04:29.929] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:04:29.929] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:04:29.929] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:04:29.929] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:05:06 ---
+[2026-05-12 15:05:06.526] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:05:06.527] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:05:06.527] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:05:06.527] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:05:06.527] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:05:16 ---
+[2026-05-12 15:05:16.689] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:05:16.691] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:05:16.691] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:05:16.691] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:05:16.691] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:05:26 ---
+[2026-05-12 15:05:26.843] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:05:26.844] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:05:26.844] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:05:26.845] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:05:26.845] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:05:36 ---
+[2026-05-12 15:05:36.976] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:05:36.978] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:05:36.978] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:05:36.978] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:05:36.978] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:05:47 ---
+[2026-05-12 15:05:47.174] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:05:47.176] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:05:47.176] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:05:47.176] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:05:47.176] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:05:57 ---
+[2026-05-12 15:05:57.423] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:05:57.425] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:05:57.425] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:05:57.428] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:05:57.428] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:06:17 ---
+[2026-05-12 15:06:17.772] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:06:17.775] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:06:17.775] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:06:17.775] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:06:17.775] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:06:27 ---
+[2026-05-12 15:06:27.868] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:06:27.869] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:06:27.869] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:06:27.870] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:06:27.870] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:06:38 ---
+[2026-05-12 15:06:38.184] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:06:38.186] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:06:38.187] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:06:38.187] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:06:38.187] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:06:58 ---
+[2026-05-12 15:06:58.448] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:06:58.450] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:06:58.450] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:06:58.450] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:06:58.450] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:07:19 ---
+[2026-05-12 15:07:19.321] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:07:19.323] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:07:19.323] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:07:19.323] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:07:19.323] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:07:29 ---
+[2026-05-12 15:07:29.516] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:07:29.518] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:07:29.518] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:07:29.518] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:07:29.518] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:07:39 ---
+[2026-05-12 15:07:39.679] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:07:39.680] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:07:39.680] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:07:39.681] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:07:39.681] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:07:49 ---
+[2026-05-12 15:07:49.787] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:07:49.792] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:07:49.792] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:07:49.792] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:07:49.792] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:07:59 ---
+[2026-05-12 15:07:59.913] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:07:59.915] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:07:59.915] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:07:59.915] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:07:59.915] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:08:10 ---
+[2026-05-12 15:08:10.057] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:08:10.058] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:08:10.058] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:08:10.058] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:08:10.058] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:08:20 ---
+[2026-05-12 15:08:20.230] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:08:20.232] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:08:20.232] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:08:20.232] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:08:20.232] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:08:30 ---
+[2026-05-12 15:08:30.474] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:08:30.475] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:08:30.475] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:08:30.475] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:08:30.475] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:09:06 ---
+[2026-05-12 15:09:06.258] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:09:06.259] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:09:06.259] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:09:06.259] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:09:06.259] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:09:16 ---
+[2026-05-12 15:09:16.230] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:09:16.232] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:09:16.232] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:09:16.232] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:09:16.232] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:09:26 ---
+[2026-05-12 15:09:26.437] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:09:26.439] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:09:26.439] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:09:26.439] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:09:26.439] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:09:46 ---
+[2026-05-12 15:09:46.788] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:09:46.789] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:09:46.789] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:09:46.789] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:09:46.789] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:10:15 ---
+[2026-05-12 15:10:16.034] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:10:16.036] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:10:16.037] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:10:16.037] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:10:16.037] no valid configuration found, try https://xmrig.com/wizard
+
+--- BASLATILDI: 15:11:02 ---
+[2026-05-12 15:11:03.177] unable to open "stratum+tcp://na.luckpool.net:3956".
+[2026-05-12 15:11:03.178] unable to open "D:\Analiz_Projesi_2024_VERÜS\config.json".
+[2026-05-12 15:11:03.179] unable to open "C:\Users\ersin\.xmrig.json".
+[2026-05-12 15:11:03.179] unable to open "C:\Users\ersin\.config\xmrig.json".
+[2026-05-12 15:11:03.179] no valid configuration found, try https://xmrig.com/wizard
